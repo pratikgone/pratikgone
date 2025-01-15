@@ -1,6 +1,7 @@
 ## 🌟 Welcome to My GitHub Universe! 🚀
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="250"/>
----
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=36F7F3&background=000000&width=500&lines=Hi+There!+I'm+Pratik+Gone👋;Full+Stack+Developer+🚀;AI+Explorer+🤖;Open+Source+Contributor+🌍)](https://git.io/typing-svg)
