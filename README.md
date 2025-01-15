@@ -1,6 +1,6 @@
 ## 🌟 Welcome to My GitHub Universe! 🚀
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="400" width="900"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="450" width="900"/>
 
 
 
@@ -28,6 +28,7 @@ I’m a passionate **developer** who thrives on building impactful solutions, ex
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=tokyonight" alt="Profile Summary" />
 </div>
 
