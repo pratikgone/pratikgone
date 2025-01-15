@@ -1,9 +1,6 @@
 ## 🌟 Welcome to My GitHub Universe! 🚀
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/path-to-image.png" alt="Programmer at Work" width="250"/>
-</div>
-
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 ---
 
 
