@@ -1,6 +1,5 @@
 ## 🌟 Welcome to My GitHub Universe! 🚀
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="250"/>
 ---
 
 
