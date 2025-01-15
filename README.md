@@ -1,6 +1,6 @@
 ## 🌟 Welcome to My GitHub Universe! 🚀
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="600"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="400" width="900"/>
 
 
 
