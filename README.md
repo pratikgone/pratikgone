@@ -1,10 +1,30 @@
-# 🌟 Welcome to My Universe! 🚀
+## 🌟 Welcome to My GitHub Universe! 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=36BCF7&lines=Hi+There!+I'm+%5BPratik+Gone%5D;Full+Stack+Developer;AI+Explorer;Open+Source+Contributor)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/path-to-image.png" alt="Programmer at Work" width="250"/>
+</div>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="250"/>
+---
 
-I’m a passionate **developer** with a love for solving problems, building innovative projects, and exploring emerging technologies. When I’m coding, you’ll find me experimenting with **AI**, contributing to **open-source**, or learning something new. 🌱
+🌟 **About Me**:  
+I’m a passionate **developer** focused on creating impactful solutions and contributing to the open-source community. Let’s build something amazing! 💻
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=36F7F3&background=000000&width=500&lines=Hi+There!+I'm+Pratik+Gone👋;Full+Stack+Developer+🚀;AI+Explorer+🤖;Open+Source+Contributor+🌍)](https://git.io/typing-svg)
+
+---
+
+---
+
+🌟 **About Me**:  
+I’m a passionate **developer** who thrives on building impactful solutions, exploring innovative tech, and contributing to the open-source ecosystem.  
+💻 Coding isn’t just my profession—it's my playground. Let’s create something amazing together! 🌈  
+
+---
+
+
 
 ---
 
@@ -66,6 +86,4 @@ I’m a passionate **developer** with a love for solving problems, building inno
 
 ---
 
-### 🔥 Fun Add-ons
-```markdown
-- Add ASCII Art or a custom banner:
+
