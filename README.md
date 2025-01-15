@@ -6,24 +6,15 @@
 
 ---
 
-🌟 **About Me**:  
-I’m a passionate **developer** focused on creating impactful solutions and contributing to the open-source community. Let’s build something amazing! 💻
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=36F7F3&background=000000&width=500&lines=Hi+There!+I'm+Pratik+Gone👋;Full+Stack+Developer+🚀;AI+Explorer+🤖;Open+Source+Contributor+🌍)](https://git.io/typing-svg)
 
----
 
 ---
 
 🌟 **About Me**:  
 I’m a passionate **developer** who thrives on building impactful solutions, exploring innovative tech, and contributing to the open-source ecosystem.  
 💻 Coding isn’t just my profession—it's my playground. Let’s create something amazing together! 🌈  
-
----
-
 
 
 ---
